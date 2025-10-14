@@ -52,7 +52,7 @@ Orador, Estado, Tema, Afiliación Política, Cantidad Verdadera, Cantidad Falsa,
 ## Entrenamiento del modelo KNN
 
 ## Se seleccionaron como características:
-Cantidad Verdadera, Afiliación Política y Estado.
+### Cantidad Verdadera, Afiliación Política y Estado.
 
 ### Se utilizó train_test_split con un 20% de datos para validación.
 
@@ -74,7 +74,6 @@ Cantidad Verdadera, Afiliación Política y Estado.
 
 ### Resultados
 
-El promedio en el modelo fue de 60%
+### El modelo alcanza un nivel de exactitud satisfactorio para una primera aproximación.
 
-El modelo alcanza un nivel de exactitud satisfactorio para una primera aproximación.
-El archivo archivoCSV.csv está listo para ser utilizado o presentado como salida del modelo.
+### El promedio en el modelo fue de 60%
