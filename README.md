@@ -28,7 +28,7 @@
 
 ### Se analizaron las columnas con valores vacíos y se reemplazaron por 0 o se eliminaron columnas irrelevantes:
 
-## Cargo del Orador
+### Cargo del Orador
 
 # Contexto
 
